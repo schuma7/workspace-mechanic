@@ -5,4 +5,4 @@
 # Created by the Workspace Mechanic Preference Recorder
 #Mon May 04 15:20:13 CST 2015
 file_export_version=3.0
-/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.importorder=\#;com.kanooba;com;org;net;sun;junit;;java;javax;
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.importorder=\#;com.kanooba;views;controllers;models;play;com;org;net;sun;junit;;java;javax;
