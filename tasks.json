@@ -12,6 +12,7 @@
 		"tasks/configure-kanooba-cleanup-actions.epf",
 		"tasks/define-kanooba-import-order.epf",
 		"tasks/define-kanooba-save-actions.epf",
-		"tasks/configure-save-action-for-play-routes-file.epf"
+		"tasks/configure-save-action-for-play-routes-file.epf",
+		"tasks/set-jdk-compliance-to-1-8.epf"
     ]
 }	

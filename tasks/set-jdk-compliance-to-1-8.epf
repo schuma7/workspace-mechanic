@@ -1,0 +1,10 @@
+# @title Set jdk compliance to 1.8
+# @description Set jdk compliance to 1.8
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Mon May 04 20:08:06 CST 2015
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.source=1.8
+file_export_version=3.0
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.compliance=1.8
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.8
