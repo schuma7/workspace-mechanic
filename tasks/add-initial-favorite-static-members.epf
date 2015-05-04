@@ -1,6 +1,6 @@
 # @title Add initial favorite static members
 # @description Add all the static member imports to show in the code completion window per default
-# @task_type LASTMOD
+# @task_type RECONCILE
 #
 # Created by the Workspace Mechanic Preference Recorder
 #Mon May 04 13:14:44 CST 2015
