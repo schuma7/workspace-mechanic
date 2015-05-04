@@ -6,7 +6,6 @@
         "contact": "sven[at]kanooba.com"
     },
     "tasks": [
-        "tasks/show-line-numbers.epf",
         "tasks/set-encoding-to-utf-8.epf",
 		"tasks/add-initial-favorite-static-members.epf",
 		"tasks/configure-kanooba-java-code-formatter.epf",
