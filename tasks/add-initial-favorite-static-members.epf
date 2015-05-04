@@ -1,0 +1,8 @@
+# @title Add initial favorite static members
+# @description Add all the static member imports to show in the code completion window per default
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Mon May 04 13:14:44 CST 2015
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/content_assist_favorite_static_members=com.google.common.base.Preconditions.*;com.kanooba.core.util.test.ValidationUtils.*;org.junit.Assert.*

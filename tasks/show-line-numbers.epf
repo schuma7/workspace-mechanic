@@ -1,5 +1,5 @@
-# @title Enable Line Numbers
-# @description Show line number ruler.
+# @title Show line numbers
+# @description Show line numbers on the left
 # @task_type RECONCILE
 file_export_version=3.0
 /instance/org.eclipse.ui.editors/lineNumberRuler=true

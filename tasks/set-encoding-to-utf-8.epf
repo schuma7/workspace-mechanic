@@ -1,5 +1,5 @@
-# @title Workspace Encoding to UTF-8
-# @description Set the workspace encoding to UTF-8
+# @title Set encoding to utf-8
+# @description Set the encoding to UTF-8
 # @task_type RECONCILE
 #
 # Created by the Workspace Mechanic Preference Recorder
