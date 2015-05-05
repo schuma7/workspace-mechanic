@@ -1,0 +1,8 @@
+# @title Set line separator to Unix
+# @description Set the separator for new lines to Unix 
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Tue May 05 11:16:53 CST 2015
+file_export_version=3.0
+/instance/org.eclipse.core.runtime/line.separator=\n
