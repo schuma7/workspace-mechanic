@@ -14,6 +14,7 @@
 		"tasks/define-kanooba-save-actions.epf",
 		"tasks/configure-save-action-for-play-routes-file.epf",
 		"tasks/set-jdk-compliance-to-1-8.epf",
-		"tasks/set-line-separator-to-unix.epf"
+		"tasks/set-line-separator-to-unix.epf",
+		"tasks/add-type-filters.epf"
     ]
 }	

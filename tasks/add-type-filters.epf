@@ -1,0 +1,7 @@
+# @title Add type filters
+# @description Add the type filters to use for auto completion, open type, organize imports etc.
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Fri May 08 20:09:43 CST 2015
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.typefilter.enabled=com.google.common.base.Optional;com.sun.*;java.awt.*;javafx.*;javax.swing.*;org.joda.*;sun.*;
