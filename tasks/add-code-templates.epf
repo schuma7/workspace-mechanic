@@ -1,0 +1,8 @@
+# @title Add code templates
+# @description Add all the templates that are available when editing Java code
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Mon May 18 17:40:19 CST 2015
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates><template autoinsert\="true" context\="java" deleted\="false" description\="Create a logger for the current class" enabled\="true" name\="logger">private static final Logger logger \= LoggerFactory.getLogger(${enclosing_type}.class);</template></templates>
