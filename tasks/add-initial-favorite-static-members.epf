@@ -3,6 +3,6 @@
 # @task_type RECONCILE
 #
 # Created by the Workspace Mechanic Preference Recorder
-#Mon May 18 19:33:44 CST 2015
+#Mon May 18 19:37:32 CST 2015
 file_export_version=3.0
 /instance/org.eclipse.jdt.ui/content_assist_favorite_static_members=com.google.common.base.Preconditions.*;org.assertj.core.api.Assertions.*;java.util.stream.Collectors.*
