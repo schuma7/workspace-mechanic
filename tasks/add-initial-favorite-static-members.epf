@@ -3,6 +3,6 @@
 # @task_type RECONCILE
 #
 # Created by the Workspace Mechanic Preference Recorder
-#Tue Jun 02 17:49:32 CST 2015
+#Tue Jun 03 18:30:32 CST 2015
 file_export_version=3.0
 /instance/org.eclipse.jdt.ui/content_assist_favorite_static_members=com.google.common.base.Preconditions.*;org.assertj.core.api.Assertions.*;java.util.stream.Collectors.*;com.kanooba.infrastructure.generated.jooq.Tables.*;com.kanooba.core.util.test.KanoobaAssertions.*;org.unitils.reflectionassert.ReflectionAssert.*
