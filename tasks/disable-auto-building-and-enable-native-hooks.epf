@@ -1,0 +1,9 @@
+# @title Disable autobuilding and enable refresh using native hooks
+# @description Disable the autobuilding feature and make sure eclipse refreshes using native hooks or polling
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Fri Jun 12 17:22:57 CEST 2015
+file_export_version=3.0
+/instance/org.eclipse.core.resources/refresh.enabled=true
+/instance/org.eclipse.core.resources/description.autobuilding=false

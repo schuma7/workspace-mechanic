@@ -16,6 +16,7 @@
 		"tasks/set-jdk-compliance-to-1-8.epf",
 		"tasks/set-line-separator-to-unix.epf",
 		"tasks/add-type-filters.epf",
-		"tasks/add-code-templates.epf"
+		"tasks/add-code-templates.epf",
+		"tasks/disable-auto-building-and-enable-native-hooks.epf"
     ]
 }	
