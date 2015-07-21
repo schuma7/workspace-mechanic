@@ -9,6 +9,7 @@
         "tasks/set-encoding-to-utf-8.epf",
 		"tasks/add-initial-favorite-static-members.epf",
 		"tasks/configure-kanooba-java-code-formatter.epf",
+		"tasks/configure-kanooba-javascript-code-formatter.epf",
 		"tasks/configure-kanooba-code-cleanup-actions.epf",
 		"tasks/define-kanooba-import-order.epf",
 		"tasks/define-kanooba-save-actions.epf",
